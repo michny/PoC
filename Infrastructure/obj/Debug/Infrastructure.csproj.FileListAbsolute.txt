@@ -1,0 +1,13 @@
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Windsor.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\log4net.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\Castle.Windsor.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\bin\Debug\log4net.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

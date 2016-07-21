@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\obj\Debug\Domain.Model.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\Domain.Model\obj\Debug\Domain.Model.pdb

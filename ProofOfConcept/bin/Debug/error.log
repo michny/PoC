@@ -1,0 +1,54 @@
+ERROR 10 ProofOfConcept.ErrorInterceptor - Error1
+ERROR 10 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at Castle.Proxies.Invocations.ITestComponent_DoSomething.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 22
+ERROR 10 ProofOfConcept.ErrorInterceptor - Error1
+ERROR 10 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at ProofOfConcept.TestComponent.DoSomethingHierarchy() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 25
+   at Castle.Proxies.Invocations.ITestComponent_DoSomethingHierarchy.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 22
+ERROR 8 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at Castle.Proxies.Invocations.ITestComponent_DoSomething.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
+ERROR 8 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at ProofOfConcept.TestComponent.DoSomethingHierarchy() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 25
+   at Castle.Proxies.Invocations.ITestComponent_DoSomethingHierarchy.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
+ERROR 7 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at Castle.Proxies.Invocations.ITestComponent_DoSomething.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
+ERROR 7 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at ProofOfConcept.TestComponent.DoSomethingHierarchy() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 25
+   at Castle.Proxies.Invocations.ITestComponent_DoSomethingHierarchy.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
+ERROR 7 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at Castle.Proxies.Invocations.ITestComponent_DoSomething.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
+ERROR 7 ProofOfConcept.ErrorInterceptor - ERROR
+System.Exception: I DID SOME BAD STUFF
+   at ProofOfConcept.TestComponent.DoSomething() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 19
+   at ProofOfConcept.TestComponent.DoSomethingHierarchy() in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\TestComponent.cs:line 25
+   at Castle.Proxies.Invocations.ITestComponent_DoSomethingHierarchy.InvokeMethodOnTarget()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at ProofOfConcept.ErrorInterceptor.Intercept(IInvocation invocation) in c:\users\michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\ErrorInterceptor.cs:line 21
