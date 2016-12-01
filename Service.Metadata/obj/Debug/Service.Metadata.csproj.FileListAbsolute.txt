@@ -3,3 +3,8 @@ C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Service.Me
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Service.Metadata\obj\Debug\Service.Metadata.csprojResolveAssemblyReference.cache
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Service.Metadata\obj\Debug\Service.Metadata.dll
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\Service.Metadata\obj\Debug\Service.Metadata.pdb
+C:\Users\mny\Source\Repos\PoC\Service.Metadata\bin\Debug\Service.Metadata.dll
+C:\Users\mny\Source\Repos\PoC\Service.Metadata\bin\Debug\Service.Metadata.pdb
+C:\Users\mny\Source\Repos\PoC\Service.Metadata\obj\Debug\Service.Metadata.csprojResolveAssemblyReference.cache
+C:\Users\mny\Source\Repos\PoC\Service.Metadata\obj\Debug\Service.Metadata.dll
+C:\Users\mny\Source\Repos\PoC\Service.Metadata\obj\Debug\Service.Metadata.pdb

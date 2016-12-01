@@ -19,3 +19,24 @@ C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\BusinessLo
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\BusinessLogic\bin\Debug\EntityFramework.xml
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\BusinessLogic\bin\Debug\Domain.Model.pdb
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\BusinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Domain.Model.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Infrastructure.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Windsor.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\log4net.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Core.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Domain.Model.pdb
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Infrastructure.pdb
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Windsor.xml
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\log4net.xml
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\bin\Debug\Castle.Core.xml
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\mny\Source\Repos\PoC\BusinessLogic\obj\Debug\BusinessLogic.pdb

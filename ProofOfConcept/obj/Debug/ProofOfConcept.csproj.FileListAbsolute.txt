@@ -21,3 +21,26 @@ C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfCon
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\bin\Debug\Castle.Facilities.WcfIntegration.xml
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\bin\Debug\Polly.pdb
 C:\Users\Michael\documents\visual studio 2015\Projects\ProofOfConcept\ProofOfConcept\bin\Debug\Polly.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\ProofOfConcept.exe.config
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\obj\Debug\ProofOfConcept.exe
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\obj\Debug\ProofOfConcept.pdb
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\log4net.config
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\ProofOfConcept.exe
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\ProofOfConcept.pdb
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Core.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Windsor.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\log4net.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Polly.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Service.Metadata.dll
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Service.Metadata.pdb
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Core.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Castle.Windsor.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\log4net.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Polly.pdb
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\bin\Debug\Polly.xml
+C:\Users\mny\Source\Repos\PoC\ProofOfConcept\obj\Debug\ProofOfConcept.csprojResolveAssemblyReference.cache

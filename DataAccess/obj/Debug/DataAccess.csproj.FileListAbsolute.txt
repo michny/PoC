@@ -20,3 +20,25 @@ C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\DataAccess
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\DataAccess\bin\Debug\Domain.Model.pdb
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\ProofOfConcept\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Domain.Model.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Infrastructure.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Windsor.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\log4net.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Core.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Domain.Model.pdb
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Infrastructure.pdb
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Windsor.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\log4net.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\bin\Debug\Castle.Core.xml
+C:\Users\mny\Source\Repos\PoC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mny\Source\Repos\PoC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mny\Source\Repos\PoC\DataAccess\obj\Debug\DataAccess.pdb
